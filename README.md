@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PabloDevs94, aka Pablo Hernandes.
   
 - 👀 I’m interested in sports in general but more than that, I'm passionate about learning, practicing and improving my skills in general - today my hobby has become my career - I love being behind the screen coding.
-- 🌱 I’m currently learning JavaScript, HTML, CSS, and I have also studied and worked on Ruby.
+- 🌱 I’m currently learning JavaScript, HTML, CSS, and Ruby on Rails.
   
 - 💞️ I’m looking for opportunities in small and medium businesses as a junior developer, to help and assist any and all forms of tasks that my senior comes up with.
 - I also do freelance projects building and uploading websites for B2B.
